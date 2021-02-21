@@ -44,24 +44,16 @@ Sledeće datoteke sadrže zadatke za vežbe:
 - 4.2 Analiza teksta - drugi deo.ipynb
 - 5.1 GSP.ipynb
 - 6.1 saobracajne nezgode.ipynb
+- 7.1 studenti priprema.ipynb
+- 7.2 srednjoskolci priprema podataka.ipynb
+- 7.3 Priprema teksta - blog tekst na srpskom i engleskom.ipynb
+- 7.4 Priprema teksta - Ana Karenjina.ipynb
 
 
-Folderi
-
-- grip data
-- gsp data
-- sn data
-- srednjoskolci data
-- studenti data
-- tekst data
-
-sadrže pomoćne fajlove. (Nema potrebe da tamo zalaziš, ali neće biti
-nikakve štete i ako malo virneš i baciš pogled na podršku za naše kurseve.)
+U folderu data i njegovim potfolderima nalaze se izvorni fajlovi sa podacima. Neće biti nikakve štete i ako malo virneš i baciš pogled kako oni izgledaju.
 
 Precizne instrukcije kako da pokreneš Džupiter, kako da pristupiš
-sadržaju i šta se od tebe očekuje pri izradi svake vežbe naći ćeš u samim sveskama ili unutar priručnika
-
-  https://petlja.org/kurs/479/
+sadržaju i šta se od tebe očekuje pri izradi svake vežbe naći ćeš u samim sveskama.
 
 Želimo ti uspešno učenje!
 
