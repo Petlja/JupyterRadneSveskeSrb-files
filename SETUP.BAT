@@ -63,7 +63,7 @@ echo.
 echo *** Instaliraju se potrebni paketi u virtuelno okruzenje (treba da ste povezani na internet)
 python -m pip install --upgrade pip
 python -m pip install wheel
-python -m pip install -r requirements.txt
+python -m pip install -r biblioteke.txt
 echo @echo off > START_JUPYTER.BAT
 echo call .env\Scripts\activate.bat >> START_JUPYTER.BAT
 echo jupyter notebook >> START_JUPYTER.BAT
