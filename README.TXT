@@ -4,10 +4,7 @@ Pozdravljamo tvoju odluku da preuzmeš datoteke za vežbu na svoj računar
 i da na taj način uvežbaš veštine za koje smatramo da su važne za svakog
 mladog čoveka ili ženu koji će živeti i raditi u 21. veku!
 
-Ovaj folder sadrži datoteke za vežbu za priručnik https://petlja.org/kurs/479/
-i pokriva centralnu temu tog kursa:
-
-- "Radne sveske za Džupiter za 2. razred gimnazije"
+Ovaj folder sadrži datoteke za vežbu za priručnik https://petlja.org/biblioteka/r/kursevi/jupyterRadneSveske_srb
 
 
 Podešavanje
